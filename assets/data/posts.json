@@ -1,0 +1,67 @@
+[
+  {
+    "id": "1",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+    "description": "A classic animation about a big bunny in the forest.",
+    "user": {
+      "id": "101",
+      "username": "bunnyFan",
+      "email": "something@gmail.com"
+    },
+    "nrOfLikes": [{"count": 224}],
+    "nrOfComments": [{"count": 342}],
+    "nrOfShares": [{"count": 24}]
+  },
+  {
+    "id": "2",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+    "description": "Dive into the surreal story of the Elephants Dream.",
+    "user": {
+      "id": "102",
+      "username": "dreamerElephant",
+      "email": "something1@gmail.com"
+    },
+    "nrOfLikes": [{"count": 702}],
+    "nrOfComments": [{"count": 872}],
+    "nrOfShares": [{"count": 152}]
+  },
+  {
+    "id": "3",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+    "description": "An intense chase scene with blazing action.",
+    "user": {
+      "id": "103",
+      "username": "actionKing",
+      "email": "something2@gmail.com"
+    },
+    "nrOfLikes": [{"count": 298}],
+    "nrOfComments": [{"count": 292}],
+    "nrOfShares": [{"count": 234}]
+  },
+  {
+    "id": "4",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+    "description": "Thrilling escapes from danger, edge of your seat stuff!",
+    "user": {
+      "id": "104",
+      "username": "escapeArtist",
+      "email": "something3@gmail.com"
+    },
+    "nrOfLikes": [{"count": 792}],
+    "nrOfComments": [{"count": 532}],
+    "nrOfShares": [{"count": 122}]
+  },
+  {
+    "id": "5",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+    "description": "Fun moments captured perfectly for your entertainment.",
+    "user": {
+      "id": "105",
+      "username": "funSeeker",
+      "email": "something4@gmail.com"
+    },
+    "nrOfLikes": [{"count": 912}],
+    "nrOfComments": [{"count": 952}],
+    "nrOfShares": [{"count": 432}]
+  }
+]
